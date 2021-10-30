@@ -1,0 +1,4 @@
+.content-history {
+    $topmarg: 140px;
+    max-height: calc(100vh - #{$topmarg});
+}
